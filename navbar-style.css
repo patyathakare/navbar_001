@@ -3,10 +3,13 @@
     margin:0px;
     box-sizing: border-box;
 }
+
+/* navigation bar  */
 .navbar{
     margin:20px auto;
     width: 70vw;
 }
+
 .navbar ul{
     overflow: auto;
     background-color: black;
@@ -34,6 +37,7 @@
     transition: color 0.6s;
 } 
 
+/* css for search bar in navigation bar  */
 .search{
     float: right;
     margin: 10px;
@@ -48,6 +52,7 @@
 
 }
 
+/* css for footer design  */
 .footer{
     text-align: center;
     margin: 550px auto 0px 0px;
